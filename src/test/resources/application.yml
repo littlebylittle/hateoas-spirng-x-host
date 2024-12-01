@@ -1,0 +1,4 @@
+server:
+    forward-headers-strategy: FRAMEWORK
+
+debug: true
